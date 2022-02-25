@@ -1,0 +1,587 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks upon a late paper, entituled, A true relation of the cursed designs and intrigues which have been lately carry'd on, both in England and France, to restore the late King James, &amp;c. discovered by some gentlemen lately arriv'd from St. Germaines.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58501</idno>
+            <idno type="STC">Wing R939</idno>
+            <idno type="STC">ESTC R8504</idno>
+            <idno type="EEBO-CITATION">12818203</idno>
+            <idno type="OCLC">ocm 12818203</idno>
+            <idno type="VID">94174</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58501)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94174)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 776:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarks upon a late paper, entituled, A true relation of the cursed designs and intrigues which have been lately carry'd on, both in England and France, to restore the late King James, &amp;c. discovered by some gentlemen lately arriv'd from St. Germaines.</title>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>States in text that "A true relation ..." was originally called "A short and true relation of the intrigues transacted both at home and abroad to restore the late King James".</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Short and true relation of intrigues transacted both at home and abroad to restore the late King James.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:94174:1"/>
+            <pb n="1" facs="tcp:94174:1"/>
+            <head>
+               <hi>REMARKS upon a late PAPER, ENTITULED,</hi> A True Relation of the Curſed Deſigns and Intrigues, which have been lately carry'd on, both in <hi>England</hi> and <hi>France,</hi> to Reſtore the late King <hi>JAMES,</hi> &amp;c.</head>
+            <head type="sub">Diſcovered by ſome Gentlemen lately Arriv'd from St. <hi>Germaines.</hi>
+            </head>
+            <p>IT is agreed by moſt Men that there are ſeve<g ref="char:EOLhyphen"/>ral degrees and ſorts of <hi>Li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> which as far (as they concern this True Relation) we ſhall divide into theſe <hi>Two:</hi> One when a Man re<g ref="char:EOLhyphen"/>peats that for <hi>Truth</hi> which he certainly knows to be <hi>falſe;</hi> the other when he reports that for Truth which he doth <hi>not know</hi> to be <hi>true,</hi> or in his Conſcience believes to be falſe; the latter is but a ſmall Extenuation of the firſt: But both of them, if they may prejudice a third Perſon, are malicious and damnable.</p>
+            <p>I will not determine how far the Author of the <hi>True Relation</hi> is guilty in <hi>either,</hi> or <hi>any</hi> Caſe; but ſhall leave the Cenſure of him <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Judg<g ref="char:EOLhyphen"/>ment of every Impartial Reader, when the Mat<g ref="char:EOLhyphen"/>ter of Fact ſhall be examined: We ſhall divide the <hi>Relation</hi> into <hi>two</hi> Parts, Firſt, We ſhall con<g ref="char:EOLhyphen"/>ſider the <hi>Matter</hi> of <hi>Fact,</hi> and then the <hi>Application</hi> and <hi>uſe</hi> made of it.</p>
+            <p>The Birth of this Wonderful Paper juſtly claims our firſt Remark, not that we know any thing of its Noble Deſcent, or of thoſe Gentle<g ref="char:EOLhyphen"/>men of <hi>very good Note,</hi> who (it ſeems) club'd in its Generation; but it is of great Importance to acquaint the Reader, That the Body of this Pa<g ref="char:EOLhyphen"/>per, with the very Numerical Words contain'd in it, firſt appear'd to the World in a certain Pamphlet which had in its Title, <hi>A Sh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt and True Relation of Intrigues tranſacted both at Home and Abroad to Reſtore the late King</hi> James: It was publickly dandled about the Streets with great Noiſe, for one Day, and then vaniſhed; not one to be had for Love or Money: The Reaſons might probably be theſe, The firſt part of that Pamphlet is an Invective againſt King <hi>James,</hi> particularly for his Ingratitude to his Friends, and of thoſe it makes ſpecial mention, of the <hi>Iriſh Catholicks</hi> and <hi>Proteſtant Diſſenters,</hi> both which (it ſays) he hath made an <hi>Oblation to the Paſſive-Obedience-men,</hi> meaning I ſuppoſe the Church of <hi>England-men;</hi> who (it further ſays) <hi>are now the late King's Creatures, and the only Per<g ref="char:EOLhyphen"/>ſons that would Abdicate the Goſpel rather than their Church-Livings:</hi> And next it highly Cenſures K. <hi>James</hi> for his great Mercy to his Enemies, and concludes that part of it with a Curſe, <hi>viz. Seeing now King</hi> James<hi>'s Favours are only reſerved to promote his Enemies, let his Enemies grow potent every where, and numerous withal, and let him be ſo loſt, that he may never be found here at Home.</hi>
+            </p>
+            <p>I ſuppoſe it will be eaſily granted me that theſe were not proper Topicks to inſiſt upon, eſpecially at that Juncture of Affairs; for every young States-man would ſoon conclude that if this Learned Pamphlet, together with K. <hi>James</hi>'s late Declaration, could convince his Enemies of <hi>their</hi> Security and <hi>His</hi> Favour towards them, <hi>the Paſſive-Obedience-men</hi> (as he calls them) would
+<pb n="2" facs="tcp:94174:2"/>eaſily concur with his Enemies (notwithſtand<g ref="char:EOLhyphen"/>ing King <hi>James</hi>'s Ingratitude) towards his Re<g ref="char:EOLhyphen"/>ſtoration, which would make it unavoidable.</p>
+            <p>Now the Wiſer Government ſeeing the ill Conſequence of ſo fooliſh a Suggeſtion, had ve<g ref="char:EOLhyphen"/>ry good reaſon to recal betimes this ill-digeſted and worſe-concluding Pamphlet; beſides it inſinuates ſtrongly to the Church of <hi>England</hi> (for whoſe Preſervation King <hi>Charles</hi> the Firſt ſuffered Martyrdom, and for fear of whoſe falſly and maliciouſly-pretended Deſtruction, his Son King <hi>James</hi> the Second is turn'd out of his three Kingdoms); that K. <hi>James</hi> is ſo truly and ſin<g ref="char:EOLhyphen"/>cerely their Friend, that he ſcruples not to make an <hi>Oblation of the Roman Catholicks themſelves to the Church of</hi> England<hi>'s Intereſt.</hi> Now whatſo<g ref="char:EOLhyphen"/>ever the Government may intend hereafter, it is certain that during this Seſſion of Parliament, it would have been a ſurprizing Indiſcretion to have given, or permitted ſo juſt an Occaſion to be given, to the Church of <hi>England</hi> eſtabliſhed by Law (and for whoſe pretended Preſervation ſo many thouſands of <hi>Engliſh</hi> Lives have been vainly caſt away) to adhere to the Intereſt of King <hi>James,</hi> through the haſty Zeal and Phana<g ref="char:EOLhyphen"/>tical Itch of this fooliſh Pamphleteer: For the Church of <hi>England</hi> have found by Experience, and at preſent (without the additional help of this Pamphlet) are ſenſible enough, that what<g ref="char:EOLhyphen"/>ſoever hath been, or may be, pretended for her Security; ſhe can never be ſo happy under any unjuſt Revolution, or Uſurpation, as under a <hi>Lawful Rightful Prince,</hi> who is not only bound by the Law, but by Royal Promiſe, to protect and defend her.</p>
+            <p>But notwithſtanding theſe plain and broad Hints already given, this Man is ſo fond of his Project that he anticipates the Privy Council, and forces the Cabinet it ſelf to give vent to his Folly; he tells us then to<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ards the Concluſion of his Pamphlet, that he hath found <hi>a long Snake in the Graſs,</hi> which it ſeems is no other than ſome Church of <hi>England-men, with whom the major part of our Councils and places of Truſt are fill'd;</hi> and ends that excellent Paragraph with News from the Court at St. <hi>Germains,</hi> viz. <hi>That it dreads nothing more than ſuch an alteration of the Leiutenancy and Juſtices of the Peace over all</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>as it hath pleaſed their Majeſties of late to cauſe in</hi> London. It muſt be acknowledged that about this Time, a Diſcourſe was ſpread about, that the Leiutenancy and Government of all <hi>England,</hi> as well as <hi>London,</hi> would be ſettled in the Hands of the Presbyterians, and ſome of the Diſſenting Party, in Excluſion of the Church of <hi>England-men;</hi> whether the Government intend<g ref="char:EOLhyphen"/>ed any ſuch Alteration, I know not: But I think it ſufficiently evident, that it would have been a groſs <hi>Bevei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and Over-ſight to have ſuf<g ref="char:EOLhyphen"/>fered this Scribler ſo much to over-run their own Councils, as publickly to inſinuate a Change ſo ungrateful to a Parliament, which was to grant a Supply for the Support of this Govern<g ref="char:EOLhyphen"/>ment, and of which the moſt conſiderableſt part is look'd upon to be firm to the Doctrine and Intereſt of the Church of <hi>England.</hi>
+            </p>
+            <p>By this time I think it is viſible enough, that the Government had very good Reaſon to ſup<g ref="char:EOLhyphen"/>preſs, betimes, this fooliſh Contradictory Pamphlet; which as it blows hot and cold with a Breath, ſo it would probably have done much more harm than good, to that <hi>very</hi> Cauſe which it pretends ſo affectionately to ſupport.</p>
+            <p>But however, though this Pamphlet was ſup<g ref="char:EOLhyphen"/>preſt for theſe ſufficient Reaſons before-menti<g ref="char:EOLhyphen"/>oned, yet there was not the ſame Cauſe to ſtifle the <hi>True Relation;</hi> for ſince its chief Deſign is to ſet forth King <hi>James</hi>'s <hi>Ingratitude</hi> and <hi>Inconſtancy</hi> to his Friends, without touching upon his Roy<g ref="char:EOLhyphen"/>al <hi>Mercy</hi> and <hi>Favour</hi> to his <hi>Enemies,</hi> it was to be hoped that it might cool and moderate at leaſt the Zeal and Affection of his Friends, eſpecial<g ref="char:EOLhyphen"/>ly, <hi>ſince the Truth will want no Confirmation, and that further Enquiry into Foreign Affairs will re<g ref="char:EOLhyphen"/>move all Doubts and leave no room for Contradiction,</hi> without inflaming the good Will of his Enemies, whom <hi>his Favours are only reſerved to promote.</hi>
+            </p>
+            <p>It was agreed upon then, that this Paper ſhould receive a new <hi>Caeſarian Birth,</hi> and accor<g ref="char:EOLhyphen"/>dingly ſhe was ript out of the Bowels, and be<g ref="char:EOLhyphen"/>came the fatal <hi>Daughter</hi> of her unhappy <hi>Siſter</hi> Pamphlet: Abroad ſhe appears the ſecond time, altered only in her outward Dreſs, ſaving that a new Head, or Title, was given to her, carrying a Cauſe in her Mouth, and her Tail tyed up by Authority, with a <hi>Licenſed according to Order.</hi>
+               <pb n="3" facs="tcp:94174:2"/>Being thus ſet forth and recommended to us, we <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall treat her with the reſpect due to: her Cha<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>acter; but at the ſame time we think it a piece <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Juſtice due to the Nation, and conducing much to her own Honour, that the Matter of fact may be ſtrictly, but Impartially, ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mined.</p>
+            <p>The Preamble informs us, that the following <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elation</hi> was had from Gentlemen of <hi>very good <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ote, who have ſeen moſt of the Tranſactions at St.</hi> Germains, <hi>&amp;c.</hi> That ſome <hi>Notorious</hi> Gen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lemen may poſſibly have contributed ſomething <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owards the ſetting forth this <hi>True Relation,</hi> I will <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot deny: But as for the Gentlemen of <hi>very good Note</hi> (eſpecially <hi>ſuch as have ſeen moſt of the Tranſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctions at St.</hi> Germains <hi>for about four Years laſt paſt</hi>) <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here is not a Man of them, of what Nation or Religion ſoever he be, but is Perſonally known <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o us; nor are we ignorant which, and how many of them (to a Man) have during theſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our Years arrived in <hi>England:</hi> And we do poſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ively affirm, that no ſuch Gentleman <hi>of very good Note,</hi> either hath or ever will affirm any one material part of this <hi>True Relation</hi> to be really <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rue; notwithſtanding therefore, that the Au<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hor of this <hi>True Relation</hi> tells us, <hi>That the Truth if it will want no Confirmation,</hi> &amp;c. We muſt deſire the Reader to ſuſpend his belief, till Mat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er of Fact be more ſtrictly examined, into which we ſhall now make an Impartial Enquiry.</p>
+            <p>The Paper tells us in the firſt Paragraph, <hi>That abont two Years ſince, the late King fed himſelf with the Thoughts of being an Abſolute Monarch, from the great Incouragement at that Time received from the Pope and the French King; but meeting with unex<g ref="char:EOLhyphen"/>pected Diſappointments, he conſulted ſome of his Pro<g ref="char:EOLhyphen"/>teſtant Council, and told them he was reſolved to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reat with his late Subjects, and to give them any Conditions, and reconcile himſelf to them.</hi> 'Tis an îll Omen (they ſay) when a Man ſtumbles at the Threſhold; but this Fellow ſtumbles through<g ref="char:EOLhyphen"/>out, he ſtumbles upon all Four: And having already obtain'd a <hi>Licenſe,</hi> he may in good time procure a Patent to ſtumble all the Days of his Life.</p>
+            <p>He tells us, That about <hi>Two</hi> Years, ſince the King had Thoughts of being an Abſolute Mo<g ref="char:EOLhyphen"/>narch, by the great Incouragement received at that Time from the French King and the Pope, <hi>&amp;c.</hi> Now <hi>about two years ſince</hi> muſt fall in with the Spring 1692; and this Pope was choſen a<g ref="char:EOLhyphen"/>bout the latter end of <hi>Auguſt</hi> immediately pre<g ref="char:EOLhyphen"/>ceding that Spring; and in that Interval of Time he was ſo little ſetled in his <hi>Geers,</hi> that the Complemental Civilities had ſcarce paſt between <hi>Rome</hi> and <hi>Verſailes,</hi> in which Time this <hi>True Re<g ref="char:EOLhyphen"/>lation,</hi> nevertheleſs, fixes the Incouragement given by that Pope to King <hi>James:</hi> And can any Man believe that a <hi>Neopolitan</hi> Pope, ſo lately a Subject to the King of <hi>Spain,</hi> would whip and ſpur to St. <hi>Germains</hi> on purpoſe to ſet up an Ab<g ref="char:EOLhyphen"/>ſolute Monarch, againſt the Intereſt of his late Maſter, and without the Deſires, and contrary to the Intentions and publick Declaration, of that very pretended Abſolute Monarch himſelf. Certainly this Man imagins that we have loſt our Memories and our Underſtandings, as well as our Honour and Loyalty; or he would never preſume to impoſe ſuch incredible Stuff upon Men who had any of their Senſes left them.</p>
+            <p>A great many Conſiderations might be offer<g ref="char:EOLhyphen"/>ed to ſhew alſo how improbable it is that the K. of <hi>France</hi> ſhould engage in ſuch a Deſign; but above all what Intimation hath King <hi>James</hi> given by his firſt Declaration, of the 20th of <hi>April</hi> 92, that he himſelf deſired any thing more <hi>than the Fe-eſtabliſhment of the Greatneſs of the</hi> Engliſh <hi>Monarchy upon its Old and True Foun<g ref="char:EOLhyphen"/>dation, the united Intereſt and Affection of the Peo<g ref="char:EOLhyphen"/>ple?</hi> And what other Means doth he propoſe to do this by, <hi>than by the Advice and Aſſiſtance of his Parliament?</hi> which I ſuppoſe to Man be<g ref="char:EOLhyphen"/>lieves would voluntarily preſent him with an Abſolute Power.</p>
+            <p>He tells us further. That K. <hi>James</hi> conſulted his <hi>Proteſtant Council;</hi> certainly theſe Gentlemen <hi>of very good Note</hi> were altogether aſleep at St. <hi>Germaines,</hi> during the Tranſactions there for four Years laſt paſt, or they could never have dreamt of any ſuch thing as a Proteſtant Coun<g ref="char:EOLhyphen"/>cil; ſince it is notoriouſly known that for above two Years laſt paſt the King hath had no Coun<g ref="char:EOLhyphen"/>cil at all, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>therwiſe than as extraordinary Oc<g ref="char:EOLhyphen"/>caſions or Emergencies might happen; he may have conſulted ſome Perſons of Quality about him: And there is no doubt but theſe Gentle<g ref="char:EOLhyphen"/>men
+<pb n="4" facs="tcp:94174:3"/>of <hi>very good Note,</hi> could eaſily have inform<g ref="char:EOLhyphen"/>ed us how many Proteſtants of that Rank were to be found at St. <hi>Germaines,</hi> when he fixes the Date of this Proteſtant Council. So that the Story which he makes the King tell to them, or him, or No-Body, muſt be a Story which No-Body but this <hi>Relator</hi> could have told again. And yet if the Story had been true, <hi>viz. that the King reſolved to treat with, and reconcile him<g ref="char:EOLhyphen"/>ſelf to his late Proteſtant Subjects;</hi> I ſee no reaſon this Man hath to blame him for it, except he thought it might conduce to his Happy Re<g ref="char:EOLhyphen"/>turn.</p>
+            <p>This true <hi>Relator</hi> proceeds, and informs us, <hi>That my Lord</hi> Middleton <hi>drew a Declaration</hi> (meaning the King's laſt Declaration) <hi>anſwerable to the Deſires of the Church-men of</hi> England <hi>and</hi> Ire<g ref="char:EOLhyphen"/>land, <hi>brought it to</hi> France <hi>about the beginning of</hi> March 93. <hi>And after high Debates about it,</hi> (at which no doubt the <hi>Relator</hi> was preſent.) <hi>The King to remove all Scruples of Conſcience, conſulted the College of</hi> Sorbon, <hi>and the</hi> Iriſh <hi>College; The Faculty of</hi> Sorbon <hi>declared againſt it, and the</hi> Iriſh <hi>College for it.</hi> Had we not ſeen many of ſuch true Narratives in our Days, it would be very ſurprizing (eſpecially under the diſpenſation of a Government that hath moſt ſignally ſecured the Church of <hi>England,</hi> and the whole Nation, from the Danger of Popery and Arbitrary Power) to read <hi>a True Relation, Licenſed according to Order,</hi> which, nevertheleſs, hath ſcarce one word of Truth in it. We do affirm then, (and will leave no room for Contradiction) that my Lord <hi>Middleton</hi> did not arrive at St. <hi>Germaines</hi> till after the Date of the King's laſt Declaration. Now, though this might be a ſufficient Anſwer, and Confutation of a great part of this true Re<g ref="char:EOLhyphen"/>lation; yet to give the Readers entire Satlsfacti<g ref="char:EOLhyphen"/>on, and diſabuſe the Credulous, who are apt to take <hi>Grub-ſtreet News</hi> for a <hi>London Gazette,</hi> we ſhall follow this <hi>True Relation</hi> through all the Particulars; and do further avert Firſt, That the College of <hi>Sorbon</hi> was never conſulted in this Matter, and by conſequence did never give their Opinion concerning it; 'tis true the <hi>R<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ator</hi> hath given us his Opinion for them, which I perceive he thinks Juſt and Honourable: But it is moſt likely that he would not have paſt this Complement upon a French Popiſh College were it not to aggravate the <hi>Machiavillian</hi> Do<g ref="char:EOLhyphen"/>ctrine of the poor <hi>Iriſh,</hi> whoſe Countrymen, ne<g ref="char:EOLhyphen"/>vertheleſs, he affectionately pities. But, Se<g ref="char:EOLhyphen"/>condly, We muſt take the Liberty to declar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alſo, that there is no ſuch College in <hi>Pari<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> as the <hi>Iriſh</hi> College; true it is, that there is th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> College <hi>Lombard,</hi> in which Lodgings are give<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>gratis</hi> to ſome few poor <hi>Irih</hi> Prieſts, and non<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> others, but without Government, Collegiate Rules, Sallaries, Stipend or Maintenance what<g ref="char:EOLhyphen"/>ſoever; their Subſiſtence chiefly conſiſting an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> proceeding from Maſſes and Prieſtly Function<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> exerciſed in the Churches and Chappels of tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> City: Thoſe <hi>Iriſh</hi> Prieſts (we affirm) were ne<g ref="char:EOLhyphen"/>ver conſulted about this Declaration, nor (<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they had been conſulted) is it probable that th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Iriſh</hi> Army would be more Conſcientious tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their ſuppoſed Natural College, or have mur<g ref="char:EOLhyphen"/>mured againſt ſuch an Admirable <hi>Salvo,</hi> whic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they had found out for the Security of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King's Conſcience, and Satisfaction of thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Countreymen's.</p>
+            <p>I ſuppoſe nothing more need to be ſaid con<g ref="char:EOLhyphen"/>cerning their Imaginary Reaſons which were never given, nor like to be given, if deſired nor do they infer rightly or conclude truly: I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhort they are the <hi>Relator</hi>'s Reaſons, and that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> enough.</p>
+            <p>But we cannot paſs by the irreconcileable Differences between the Lord <hi>Melford</hi> and my L. <hi>Middleton,</hi> about the Empire of the World, without remarking that this is juſt as true, as i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is politick and practicable, for a Convert unde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſhadow of Religion to cloath himſelf i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Wolves dreſs, (the firſt <hi>A la mode</hi> Suit of tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> kind, which I am confident was ever put on by an Hypocrite) as he would have my L. <hi>Melford</hi> to be; but however, the Learned <hi>Relator</hi> ſeems to confirm this Miracle by a <hi>Tantum Religio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> which is as much to the purpoſe, in this place, as <hi>Tytire tu patulae, &amp;c.</hi>
+            </p>
+            <p>In his next Paragraph the <hi>Relator</hi> is very buſy about Expreſſes into <hi>Flanders</hi> and <hi>England,</hi> from <hi>Flanders</hi> to St. <hi>Germaines;</hi> Conſternations Mutinies, New Declarations; doing and undo<g ref="char:EOLhyphen"/>ing, booting and unbooting; till at laſt he leave<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>England very well contented with this laſt Declara<g ref="char:EOLhyphen"/>tion,
+<pb n="5" facs="tcp:94174:3"/>but the Iriſh ſtill continue in great Diſorder about it, and being very unruly, and weary of King</hi> James, <hi>would give any thing to be at Home.</hi> Ne<g ref="char:EOLhyphen"/>ver did Knight Errant of <hi>very good Note,</hi> equip himſelf more formidably againſt the Whimſies of his own Adutled Brain than this Man hath done. We muſt again take the Liberty there<g ref="char:EOLhyphen"/>fore as we have done, to deny p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>remprorily what our <hi>Relator</hi> moſt impuden<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly affi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in theſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wo Paragraphs; and accordingly we aſ<g ref="char:EOLhyphen"/>ſure the Reader,
+<list>
+                  <item>
+                     <hi>Firſt,</hi> That the Declaration ſo Signed by the King, as is pretended, was not ſent to the <hi>Iriſh</hi> in <hi>Flanders,</hi> before it had been publiſhed in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+                  </item>
+                  <item>
+                     <hi>Secondly,</hi> That the ſaid Declaration was never afterwards ordered to be ſent to the <hi>Iriſh</hi> Army.</item>
+                  <item>
+                     <hi>Thirdly,</hi> That the <hi>Iriſh</hi> Army never mutiny'd about it, nor had any Reaſon ſo to do.</item>
+                  <item>
+                     <hi>Fourthly,</hi> That there was no ſuch Thing as a Second Declaration.</item>
+               </list>
+            </p>
+            <p>To the Firſt we do affirm, that the ſaid De<g ref="char:EOLhyphen"/>claration was actually in <hi>England</hi> before my L. <hi>Middleton</hi> arriv'd in <hi>France;</hi> but it is true that after my L. <hi>Middleton</hi> came to St. <hi>Germaines,</hi> in or about the Mon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h of <hi>May,</hi> the King command<g ref="char:EOLhyphen"/>ed Sir <hi>Richard Neagle</hi> to give the <hi>Iriſh</hi> Officers an Account of that part of the ſaid Declaration (and not the Declaration it ſelf) which related to them, which was to re-eſtabliſh the Act of Settlement in <hi>Ireland,</hi> but withal to take care to recompence thoſe who followed him to the laſt, for the Loſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s they might ſuſtain by renew<g ref="char:EOLhyphen"/>ing the Act of Settlement; which Act (by the way) was notoriouſly known to be broken, contrary to the Senſe and Deſign of the King, as alſo of many eminent <hi>Iriſh</hi> Catholicks, who pro<g ref="char:EOLhyphen"/>portionable to their Eſtates ſuffered more con<g ref="char:EOLhyphen"/>ſiderably by the Repeal than moſt of the Prote<g ref="char:EOLhyphen"/>ſtants had done: And the King himſelf loſt thereby Lands to the Yearly value of about 3000 <hi>l.</hi> In an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wer to Sir <hi>Richard Neagle</hi>'s Let<g ref="char:EOLhyphen"/>ter, the <hi>Iriſh</hi> Collonels, and Commanding Offi<g ref="char:EOLhyphen"/>cers, have unanimouſly, and under their Hands, declared themſelves in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rely and fully ſatisfy'd with what His Majeſty had done, and were all well contented to rely upon his Promiſes for ſuch Recompences, as His Majeſty ſhould hereafter procure for ſuch of them as might be Loſers by the Re-eſtabliſhment of the ſaid Act of Settle<g ref="char:EOLhyphen"/>ment. And it is alſo ſo true, that neither the <hi>Iriſh</hi> Officers, nor the pretended <hi>Irish</hi> College, were acquainted with or conſulted about this Declaration; that neither they nor the Lord Prima<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of <hi>Ireland,</hi> nor the Biſhop of <hi>Dublin</hi> knew the Contents of the ſaid Declaration, un<g ref="char:EOLhyphen"/>til His Majeſty had Advice of its publication in <hi>England:</hi> And that then, and nor till then, the King diſcourſed with the ſaid Primate and Arch-Biſhop, together with my Lord <hi>Lucan,</hi> about what related to the <hi>Irish;</hi> and then and there they all of them profeſſed their Satisfaction in what His Majeſty had done: This is Matter of Fact, and will be atteſted in its proper time and place, not only by Gentlemen of very good Note, but by Men of undoubted Honour and Conſcience. By what hath been already ſaid, it is ſufficiently evident, I hope, That Firſt the Declaration was not ſent to the <hi>Irish</hi> before pub<g ref="char:EOLhyphen"/>liſhed in <hi>England.</hi> Secondly, That the Decla<g ref="char:EOLhyphen"/>ration was not ſent by His Majeſty's Command afterwards, but only that part of it which rela<g ref="char:EOLhyphen"/>ted to the <hi>Irish.</hi> And Thirdly, That the <hi>Irish</hi> did not mutiny upon it; and we ſhall now make it appear that they had no reaſon ſo to do.</p>
+            <p>We muſt then acquaint the Reader, That up<g ref="char:EOLhyphen"/>on the Capitulations of the City of <hi>Limerick,</hi> the <hi>Irish</hi> Officers who treated about it, as the Lord <hi>Lucan,</hi> Collonel <hi>Garet Dillon,</hi> and others, neither deſired nor agreed for more in that Article rela<g ref="char:EOLhyphen"/>ting to their real Eſtates, than that they ſhould enjoy them according to the Act of Settlement, which was conſented to by the <hi>English;</hi> the Capitulations were accordingly concluded, and Signed by thoſe, and ſuch other Officers of the <hi>Irish</hi> as were concerned to treat and conclude about the ſame.</p>
+            <p>Thus then was the Articles agreed to, and Signed by the <hi>Irish</hi> Officers: Now what ſays the King in his laſt Declaration? <q>In that Parliament, ſays he, (meaning the firſt Par<g ref="char:EOLhyphen"/>liament to be aſſembled after his Return) "We will alſo conſent to every thing they ſhall think neceſſary to re-eſtabliſh the late Act of Settlement of <hi>Ireland,</hi> made in the Reign of our Deareſt Brother; and will adviſe with
+<pb n="6" facs="tcp:94174:4"/>them how to recompence ſuch of that Nati<g ref="char:EOLhyphen"/>on, as have followed us to the laſt, and who may ſuffer by the Re-eſtabliſhment, accord<g ref="char:EOLhyphen"/>ding to the degree of their Sufferings there<g ref="char:EOLhyphen"/>by; <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o, as the ſaid Act of Settlement may always remain in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ire.</q>
+            </p>
+            <p>It had been already obſerved that the <hi>Irish</hi> neither deſired nor Capitulated for more than than to be reſtored to their Eſtates, according to the Act of Settlement, and ſo much the King promiſes for them; but to explain this Matter more fully, and to leave no room for Cavil, we ſhall divide the Article-Men (as they call them) into three Ranks. Firſt, Thoſe who loſt by the Repeal of the Act of Settlement. Secondly, Thoſe who will loſe by the Act of Re-eſtabliſh<g ref="char:EOLhyphen"/>ment. Thirdly, Thoſe who had no real Eſtates at all, and by Conſequence will neither gain nor loſe by it. Now to the firſt and ſecond ſort of thoſe who followed the King into <hi>France,</hi> after the Capitulation, it is moſt certain that they amount not to the hundredth Man of thoſe who followed him; and as for thoſe who ſtay'd be<g ref="char:EOLhyphen"/>hind, they had the benefit of the Articles, and were, or ought to have been admitted to their Eſtates, according to the Act, after a Praevious Oath of Allegiance taken to K. <hi>William</hi> and Q. <hi>Mary;</hi> Theſe therefore, I ſuppoſe, neither are, nor intended to be concerned in the King's De<g ref="char:EOLhyphen"/>claration, neither can thoſe who loſt by the Re<g ref="char:EOLhyphen"/>peal of the Act of Settlement he offended at the King's Reſolution to re-eſtabliſh it. In ſhort it affects thoſe only who followed the King to the laſt, and will be Loſers if the ſaid Act be re-eſtabliſhed; theſe alſo muſt be diſtinguiſhed in<g ref="char:EOLhyphen"/>to two ſorts, thoſe who followed the King pure<g ref="char:EOLhyphen"/>ly out of Lovalty, Zeal and Affection to his Perſon and Cauſe; and thoſe who for ſome Ex<g ref="char:EOLhyphen"/>travagancies and Miſdemeanours, during the War under K. <hi>James,</hi> did not think it ſafe to ſtay behind; for they had heard and were well informed, that many vexatious Suits were car<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on againſt ſome on this ſide the <hi>Shannon,</hi> who had taken Protection under K. <hi>W.</hi> for Miſ<g ref="char:EOLhyphen"/>demeanours commited during the War, even to the undoing many of them.</p>
+            <p>But howeve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> either of thoſe ſorts of Perſons had any Reaſon to be offended at any part of the King's Declaration, relating to them: For firſt, had the King taken no Notice at all of them, they could never have juſtly pretended to more than they themſelves deſired or agreed unto by their Capitulations: Nor Secondly, had, they deſerted <hi>K. James</hi> and gone over to <hi>K.W.</hi> they could never have had any other Conditi<g ref="char:EOLhyphen"/>ons than to be admitted to their Eſtates, accor<g ref="char:EOLhyphen"/>ding to the Act of Settlement. But Thirdly, The King for thei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Loyalty and good Services to Him; promiſes to recompence ſuch as may ſuffer by the Re-eſtabl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhment, according to the degree of their Sufferings; and what better and ſecurer way could he have propoſed to do this, than by the Advice and Conſent of his Parliament. And what greater Promiſes could he have made the man relation to their Eſtates, and in his preſent c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rcumſtances, than he hath done; eſpecially (as hath been already ſaid) ſince the very Repeal of that Act was, in a great meaſure, extorted from the King, con<g ref="char:EOLhyphen"/>trary to his own Opinion therein often decla<g ref="char:EOLhyphen"/>red, and contrary to the Intereſt of very many conſiderable <hi>Catholick Irish.</hi> For it is well known that after the Act of Settlement, many Convey<g ref="char:EOLhyphen"/>ances and Purchaſes were made among them<g ref="char:EOLhyphen"/>ſelves under that Title, which by the Repeal are deſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyed: And ſo univ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſally w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re the <hi>Ca<g ref="char:EOLhyphen"/>tholick-Irish</hi> Merchants (more eſpeciall) in <hi>Gallo<g ref="char:EOLhyphen"/>way</hi> and thereabouts) conc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rned in this Repeal, that their Loyalty was <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o a little ſuſpected up<g ref="char:EOLhyphen"/>on that Account, and many hard things ſaid of them, during the Siege, not nec<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſary now to be repeated. What more then could theſe Men have deſired of the King than to be reſtored to their Eſtate, according to the Act of Se<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>le<g ref="char:EOLhyphen"/>ment, and Promiſe to thoſe who may ſuffer by the Re-eſtabliſhment of it, of a Recompence according to the degree of their Suff<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rings, which is much more than they had and Reaſon to hope for under this preſent Government. By this Time (I <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ope) it is <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iden beyond Con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ra<g ref="char:EOLhyphen"/>diction Firſt, That in <hi>France</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Irish</hi> Army did never mutiny about the King's Declara<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion; and Secondly, That they had no Re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſon ſo to do; I ſuppoſe there is no need of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aying any thing about a Second Declaration: For Firſt we have and do affirm, That there was no Declara<g ref="char:EOLhyphen"/>tion
+<pb n="7" facs="tcp:94174:4"/>at all <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by R. <hi>J</hi> Order to the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Army; And next (by what hath been already ſaid) there cannot nor could be any Occaſion for a Second: Whatſoever relates therefore more to the <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iſh,</hi> is meer fictitious Stuff, and the Man's own Ima<g ref="char:EOLhyphen"/>gination.</p>
+            <p>We muſt now take Notice (and thank the true Relator for it) That he hath offered one piece of Truth to us <hi>viz That the King cauſed the Declaration to be put in the</hi> Paris <hi>Gazette.</hi> From whence we may obſerve theſe two Things, First. That the King had well conſidered the Conſents of his Declaration, which moſt pro<g ref="char:EOLhyphen"/>bably was communicated to, and approved of by the Court at <hi>Verſailes;</hi> and that by the Pub<g ref="char:EOLhyphen"/>lication of it he intended no leſs, than the Chri<g ref="char:EOLhyphen"/>ſtian Wo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld ſhould be acquainted with his juſt and merciful Reſolutions taken for the Satis<g ref="char:EOLhyphen"/>faction of his Subjects and that he always would, and now actually doth ſtand by the ſame upon the Conditions therein offered.</p>
+            <p>The Second Remark is That had the Facul<g ref="char:EOLhyphen"/>ty of <hi>Sorbon</hi> declared againſt the ſaid Declaration (as this Man pretends) eſpecially when formally conſulted, and in a Caſe of Conſcience <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it is moſt unlikely we ſhould ever have found it in the <hi>Paris</hi> Gazette; or that after it, the King ſhould be ſo extreamly much made of in the Court of <hi>France,</hi> as this Man tell us he is; though in the ſame Paragraph he hath the Fol<g ref="char:EOLhyphen"/>ly to ſay alſo, <hi>that he hath loſt thereby the Affecti<g ref="char:EOLhyphen"/>on of the French Nobility,</hi> which comes very near a direct Contradiction <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> except he can make a Court ſubſist without Nobility, or <hi>extreamly much made of</hi> (as he words it) with<g ref="char:EOLhyphen"/>out Affect<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on. In his next Paragraph, he tells us of <hi>Articles and twelve Heads;</hi> God help his poor Head for we know <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> where <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> any ſuch Ar<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cles, except in tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>Then he proceeds to acquain<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ha not<g ref="char:EOLhyphen"/>withſtanding <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> King had loſt the Intereſt and Affection of the French Nobility and Clergy, and the high Di<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>contents and Diſatisfaction of the <hi>Iriſh,</hi> together with his own Ingratitude and Inconſtancy; <hi>yet now the court is elevated with Joy, at the Hopes of his Return:</hi> But as Ill-Luck will have it, he tells <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the lame Breath, <hi>That the great Joy was o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſudden tain'd <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sorrow, and a total Diſſolution of all hopes of a Second Reſtoration.</hi> Immediately after this diſ<g ref="char:EOLhyphen"/>mal Diſſolution, <hi>The King is</hi> nevertheleſs <hi>ſo cer<g ref="char:EOLhyphen"/>tainly aſſured that he could not ſaid of being re<g ref="char:EOLhyphen"/>ceiv'd in</hi> England, <hi>without any Oppoſition, that he poſts to</hi> Verſailes <hi>to demand Succours:</hi> But, Oh! the Inconſtancy of Fortune, and Favour of Princes; when all Things, juſt before, were ready Abroad as well as at Home<g ref="char:punc">▪</g> and no doubt in the leaſt but they would have anſwered Ex<g ref="char:EOLhyphen"/>pectation, the French King daſhe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all with a Speech, which King <hi>James</hi> taking in Sheet-Hand, and theſe Gentlemen of <hi>very good Note,</hi> taking it alſo in ſhort Hand; from the Mouth of King <hi>James;</hi> the whole Court ever ſince hath been in a Fit of the Choſlic<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> (by which they are ſo disfigured and altered <hi>that they are like ſo many People going to die.</hi> It is impoſſible for me to give a ſatisfactory account of ſuch ſtrange and violent Revolutions; but the <hi>French King</hi> it ſeems all along knows all things better than we know our ſelves: And I ſhould be heartily glad that thoſe Gentlemen of <hi>very good Note,</hi> which help'd the <hi>Relator</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o that excellent Speech, would have help'd him alſo to have made ſome Anſwer to it, and not to have expes'd the Nation in Print, by a Character given of us, from the Mouth of so Wise and ſo great a Monarch, which by how much the more it carries with it a great Ap<g ref="char:EOLhyphen"/>pearance of Truth, by ſo much the more was it neceſſary for him to confute it, if he could: But I ſhall leave the farther and more ſerious Consideration of it to his own Conſcience.</p>
+            <p>He concludes as he began, with St<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff unſup<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rally falſe and invidious; <hi>Moſt of the decay'd Gentlemen,</hi> as he calls them that have return'd Home a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e come upon the account of their particular and Family Concerns; and that the <hi>Engliſh, Scotch</hi> and <hi>Irish</hi> Protestants wiſh them<g ref="char:EOLhyphen"/>ſelves all at Home again<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> not<g ref="char:punc">▪</g> and the <hi>R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>man</hi> Catholicks <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: Nor do we <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> find they deſpair of attending their King and Royal Maſter in an Honourable and Happy Condition We hear nothing of their being forbid the Court, except ſuch of <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> are look'd upon as Spie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; and or thoſe, who are with any Reaſon <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſpected to be ſuch the King of <hi>France</hi> takes other Meaſures with them, than
+<pb n="8" facs="tcp:94174:5"/>for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dding<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them only the Court of St. <hi>G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>maines.</hi>
+            </p>
+            <p>THi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> laſt Paragraph is ſo full of irreconci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>able Nonſenſe and Impertinence, that I only won<g ref="char:EOLhyphen"/>der'd <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhould conclude, with a <hi>Licenſed accord<g ref="char:EOLhyphen"/>ing to Order;</hi> but upon better Conſideration, I obſerve a Difference between <hi>Licenſed according to Order,</hi> and <hi>Licenſed by Authority,</hi> which makes me conclude than a Ballad would have obtain'd the ſame Honour; and I cannot but look upon this true Relation to be much of the ſame Strain and Quality.</p>
+            <p>Thu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have I followed this Rambling <hi>Relator</hi> through all his uneven and intricate ways of Falſhood, Malice and Contradiction; and have given (I hope) a full and plain account of the true Matter of Fact, which muſt prove his true Relation to be totally falſe.</p>
+            <p>I ſhall only make a ſhort Remark of a Paſ<g ref="char:EOLhyphen"/>ſage or two that requires ſome Explanation, and conclude with the Application and Uſe which he would make of his falſe Premiſes.</p>
+            <p>He tells us in his Paper, That King <hi>Charles</hi> the Second took the Covenant in <hi>Scotland,</hi> and after his Reſtoration burnt it at <hi>London,</hi> by the Hands of the common Hangman: But it being moſt certainly true, that it was done by Order of Parliament, as alſo the Exception of ſeveral of the Regicides from the Act of Indemnity, notwithſtanding King <hi>Charles</hi> in his Declaration from <hi>Breda,</hi> had Pardoned all thoſe who had been any ways concerned in the Rebellion a<g ref="char:EOLhyphen"/>gainſt his Royal Father, and himſelf. I ſup<g ref="char:EOLhyphen"/>poſe the Relator will need no further Arguments to diſtinguiſh between the Action of the King and of Parliament, and the King in Parliament, or together with the two Houſes of Parliament, which together includes not only the Supream Authority and Wiſdom, but the Juſtice alſo of the Nation: And by Conſequence the juſt Exe<g ref="char:EOLhyphen"/>cution of the Covenant, cannot be looked upon otherwiſe than the Act of the Nation, and not as the private or particular Command of the King.</p>
+            <p>In his Pamphlet he reflects on King <hi>Charles</hi> the Second for his Ingratitude to his Friends: But when it ſhall be conſidered, that the King was ſo ſuperabundantly grateful to thoſe who were the Inſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ments of his <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ration and who (I ſuppoſe the Relator will: agree with me) were truly to be looked upon as his Friends, that Gratitude to them hath flown ſo ſtrongly in his Face, as to have made him and the whole Na<g ref="char:EOLhyphen"/>tion ſenſible, in his own Time, that not only his Sacred Li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as in Danger, by the Treache<g ref="char:EOLhyphen"/>rous Deſigns of man <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f thoſe very Perſons whom he had emi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ntly advanced and honour<g ref="char:EOLhyphen"/>ed; but it gave him alſo ſo diſmal a Proſpect of thoſe Miſeri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which of late have fallen upon us, that he applied himſelf ſeriouſly to the ſinding out ſuch proper Remedies, which (had God granted him longer to us) he would not only have perfected, but in all probability he would alſo have fecured to us, theſe Bleſſings, which (for our Ingratitude and Sins) God Almighty hath at preſent removed from us. The Relator therefore (very fooliſhly and impertinently) puts us in Mind of Gratitude; ſince to touch upon it at this time, can only ſerve as a Caution to Princes how they diſpence their Favours, or beſtow their Pardons upon ſuch an ungraceful People as we have been. He further, tells us in his Paper, That my Lord <hi>Melford</hi> and my Lord <hi>Middleton</hi> are to this Day Irreconcilable Enemies; inſinnating thereby, that the Cir<g ref="char:EOLhyphen"/>cumſtances of <hi>King James,</hi> in relation to his hap<g ref="char:EOLhyphen"/>py Return, are ſo very ill, through the Differ<g ref="char:EOLhyphen"/>ences of his two great Miniſters, who it ſeems <hi>do not contend for any Good to this Side or that,</hi> that it is in vain to hope for any ſuch R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſing, and by Conſequence all is in Diſorder, and his Friends like ſo many People going to dye: But I would have this Rela<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on know (to his own Con<g ref="char:EOLhyphen"/>foſion, and all Honeſt Men to their great Com<g ref="char:EOLhyphen"/>fort) That there is no Striſe between theſe two Honourable Lords, and Loyal, Faithful Sub<g ref="char:EOLhyphen"/>jects and Servants, but who ſhall ſerve their Royal Maſter beſt, and ſecure a firm and Nati<g ref="char:EOLhyphen"/>onal Bleſſing to us, by a happy Union and per<g ref="char:EOLhyphen"/>fect good Underſtanding be ween the King and his much abuſed People, when God in his Pro<g ref="char:EOLhyphen"/>vidence ſhall Reſtore him to as. I could en<g ref="char:EOLhyphen"/>large much upon this Subject, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it were neceſſa<g ref="char:EOLhyphen"/>ry, and add Demonſtration to what l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffirm; but having ſome Reaſon to believe, by this time, that the Reader, as well as my ſelf, is
+<pb n="9" facs="tcp:94174:5"/>weary of this trifling Relator; I ſhall conclude with his Application.</p>
+            <p>The Relator hath rak'<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up all this falſe matter of fact, only to ſet forth <hi>K. James</hi>'s Inconſtancy and Ingratitude to his Friends: but having (I hope) ſufficiently and fully diſproved his Fact, his Application and Uſe muſt fall to the Ground. However, that mothing may, be wanting to the Performance of that piece of Juſtice, which is true to all Mankind, and more particularly to an Injur'd Prince, I ſhall briefly examin the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with all Plainneſs and Sincerity. It is evident that <hi>K. James</hi>'s Ingratitude is appli<g ref="char:EOLhyphen"/>cable only to <hi>K. James</hi>'s Friends, who may be divided into theſe four Claſſes or Ranks.</p>
+            <list>
+               <item>1. His <hi>Iriſh</hi> Roman-Catholick Friends.</item>
+               <item>2. His poor Diſtendng Friends who never did him any Wrong.</item>
+               <item>3. His Church of <hi>England</hi> Friends.</item>
+               <item>4. His <hi>Engliſh</hi> Roman Catholick Friends.</item>
+            </list>
+            <p>As to the firſt Sort, I have already ſpoken ſo fully to the <hi>King</hi>'s Declaration, as far as it re<g ref="char:EOLhyphen"/>lates to the <hi>Iriſh,</hi> that there needs no) further Repetition<g ref="char:punc">▪</g> I ſhall refer the Reader therefore to what hath been already ſaid in their Caſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and proceed to the poor Diſſenters. And, Firſt, It might have been reaſonably expected, that the Relator ſhould have explained himſelf, what ſort of Diſſenters he meant; for I ſuppoſe the word Diſſenter includes all ſort of Perſwaſi<g ref="char:EOLhyphen"/>ons or Religions which are not in the Commu<g ref="char:EOLhyphen"/>nion of the Church of <hi>England,</hi> or that differ in Doctrine or Diſcipline from the ſame: The Po<g ref="char:EOLhyphen"/>piſh Diſſenters Timing me are not here included: And for the Proteſtand Diſſenters, it is very certain that there is a fort of them, which have hitherto been ſo far from deſerving any Reward or Thanks from the King, that his Mercy muſt be very extenſive, at his Return, if it compre<g ref="char:EOLhyphen"/>hends them: But ſince the Man hath ſpoken in general Terms, I anſwer alſo<g ref="char:punc">▪</g> That in general the Proteſtant Diſſenters cannot deſire more, than what the King hath already offered and declared in their behalf: To prove this, it is only to be conſidered, whether the Proteſtant Diſſenters can reaſonably deſire more of the King, than a general Pardon and an impartial Liberty of Conſcience, except he means a Diſ<g ref="char:EOLhyphen"/>ſolution alſo of the Liberties of the Church of <hi>England,</hi> eſtabliſhed by Law: If he means th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> laſt, the King will be much obliged to them, for being to modeſt as to ask only that very Thing, the vain and ill grounded Imagi<g ref="char:EOLhyphen"/>nation whereof, was made uſe of as one main, if not the chief Pretence, which hath brought theſe heavy Misfortunes both upon him and us; but if he means Pardon and Liberty of Conſci<g ref="char:EOLhyphen"/>ence, the King hath then anticipated their De<g ref="char:EOLhyphen"/>ſires, and prevented all Grounds of Diſſatisfacti<g ref="char:EOLhyphen"/>on their part, by promiſing Solemoly in his laſt Declaration, under the Great Seal, a free Pardon and Indemnity to all his Loving Sub<g ref="char:EOLhyphen"/>jects, of what Degree or Quality ſoever, which ſhall not by Land or Sea oppoſe him, <hi>&amp;c.</hi> A Pardon ſo full and comprehenſive, that no man is excluded, who ſhall not wilfully and voluntarily reject it; and to ſuch I ſuppoſe the <hi>Relator</hi> him<g ref="char:EOLhyphen"/>ſelf hath not Confidence to expect that his Maje<g ref="char:EOLhyphen"/>ſty's Gratitude ſhould extend. And as for Liberty of Conſcience the King hath taken Care alſo, in his ſaid laſt Declaration, to give all Sorts and Degrees of Proteſtant. Diſſenters the greateſt Security imaginable, by declaring, <hi>That he will, with all Earneſtneſs, recommend to his Parliament ſuch an Impartial Liberty of Conſcience, as they shall think neceſſary for the Happineſs of theſe Nations.</hi> More, I think, cannot be deſired by the one, nor granted by the other, except the <hi>Diſpincing</hi> Power be called again in Queſtion, which al<g ref="char:EOLhyphen"/>ready hath made ſo much Noiſe; and which the King declares, in the immediate following Paragraph, he will leave to be explained and limited by his Parliament: And I do affirm my ſelf to have heard ſome of the moſt conſidera<g ref="char:EOLhyphen"/>ble, and it may be the moſt prudent among the Diſſenters Declare<g ref="char:punc">▪</g> That in Conſcience they ought not to ask more than the King is willing to procure for them.</p>
+            <p>But Thirdly, The Church of <hi>England,</hi> or <hi>Paſſive Obedience-Men</hi> (as the Relator ſcornfully calls them) are of, all people the moſt ſecure from meeting any ungrateful Return from the King; for he declares <hi>upon his Royal Word, That be will protect and defend the Church of</hi> England<g ref="char:punc">▪</g>
+               <pb n="10" facs="tcp:94174:6"/>
+               <hi>as <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> is na<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> eſtablished by Law, and ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the Members of its all the Churches, Univerſities. Col<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iges and Schools, together with their Immunities, Rights and Priuiledges.</hi> But not to multiply Arguments in a Caſe that needs none, the Rela<g ref="char:EOLhyphen"/>tor himſelf, in the Pamph<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er before mentioned, hath ſaved us that Trouble: For he acknow<g ref="char:EOLhyphen"/>ledges (with a ſort of Spight and Indignation) That the King hath made the <hi>Irish Catholicks and Proteſtant Diſſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ter an Oblation to the P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſto<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Obe<g ref="char:EOLhyphen"/>dienc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-Men, who are now become the late King's Creatures.</hi> We will for once take his word, as to this laſt part of it; and ſince we are agreed upon the Point, we come now to the laſt Rank and Son of Perſons who may ſuffer by the King's Ingratitude; and thoſe are his <hi>English</hi> Catholick Subjects.</p>
+            <p>Now to underſtand their Caſe aright, we muſt diſtinguiſh them into theſe two Sorts; Thoſe who are men of Eſtates: And thoſe who are younger Brothers, and men of Fortune; and theſe we muſt alſo ſubdivide into ſuch as remain in the ſame Circumſtances (<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bating the Misfor<g ref="char:EOLhyphen"/>tunes of this Revolution) that they were in be<g ref="char:EOLhyphen"/>fore <hi>K. James</hi>'s Acceſſion to the Throne, and ſuch as have followed <hi>K. Jame</hi>'s Fortune ſince this Revolution, and have ſuffered Impriſon<g ref="char:EOLhyphen"/>ment, Loſſes and many other Hardſhips, upon the Account of their Loyalty to him.</p>
+            <p>As for the firſt Sort, we dare almoſt affirm for them, that they neither expect nor deſire, no, nor need much more of <hi>K James</hi>'s Favour, than to be freed from the Bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>then of heavy and double Taxes, and ſome perſonal Severities, which they ſometimes lye under, or are at leaſt expoſed to, through the Malice of their Ene<g ref="char:EOLhyphen"/>mies: And to ſpeak plainly, they have general behaved themſelves with ſo much Indifferency and Coldneſs towards <hi>K. James,</hi> and towards his Friends, during this their time of Tryal, that they have but very ſmall Pretences to de<g ref="char:EOLhyphen"/>ſerve more.</p>
+            <p>The ſecond ſort who are ſuppoſed to be under the ſame Circumſtances they were in during the Reign of King <hi>Charles</hi> the Second; I know not how the King's Gratitude is far her concern'd with them, than to reſtore them to their for<g ref="char:EOLhyphen"/>mer Liberties, and diſpence his Favours to them according to their Qualifications; and he <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>portion they bare with the reſt of their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Subjects, as far forth as the Law will permit: And I do not find the King <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>th declared againſt this.</p>
+            <p>There remain then thoſe of the la<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only, who have really ve<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed and ſuffi<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d much, and who can very hardly ſubſiſt, except the King ſhould be pleaſed to make ſome honour<g ref="char:EOLhyphen"/>able Proviſion for them in re<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mpence of their ſaithful Services and Sufferings; which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ima<g ref="char:EOLhyphen"/>gine the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ator</hi> believes he either cannot or will not do, it he keep to his D<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lantion, That he will not diſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not with, nor value the Teſt: If the Caſe were ſo it were inde<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Dilemma</hi> upon the King, either to be juſtly ac<g ref="char:EOLhyphen"/>cuſed of I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igrat<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, or of violating the Law, which is ſeems was made as a Bul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ark <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſcoure the Church of <hi>England</hi> from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>opiſh Invaſion; but I do not find it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> unanoidable Conſe<g ref="char:EOLhyphen"/>quence, that the King muſt needs be Guilty el<g ref="char:EOLhyphen"/>ther of the one or the other. For Firſt, If the King hath declared he will not violate the Teſt, but will defend and protect the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> (and leſs he could not declares, if he declar'd any thing;) and ſo much he declared in his firſt Declaration, partly in expreſs Terms, as to what relates to the Church of <hi>England,</hi> and the other part ſufficiently included in his laſt Paragraph: In which he refers the healing of the late Diſtractions to the Advice and Aſſi<g ref="char:EOLhyphen"/>ſtance of his Parliament. It is not impoſſible but the Wiſdom and Juſtice of a Free and Well-tempered Parliament, might find our ſome <hi>me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zi termini,</hi> or Medium, between a violating of the Teſt and the Ingratitude of the King to to his deſerving Subjects: There are many Mo<g ref="char:EOLhyphen"/>derate and Wiſe Men (God be praiſed) ſtill leſt among us; and the Nation is now taught by wo<g ref="char:EOLhyphen"/>ful Experience, to diſtinguiſh between Laws ex<g ref="char:EOLhyphen"/>torted by Faction, to ſerve a particular Turn, and equal Laws made for the Publick Good and Union, nor the Diſtruction and Rui<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of the Nation; but however (taking all Things in their extream) I do not find the King intends, or will be forc'd (if I may ſo ſay) to be ungrate<g ref="char:EOLhyphen"/>ful to ſuch as deſerve his Favours.</p>
+            <pb n="11" facs="tcp:94174:6"/>
+            <p>For Firſt, his poor Suffering <hi>Roman Catholick</hi> Subject here intended, are reduced by the Vi<g ref="char:EOLhyphen"/>olences of the War and n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tural Diſſolutions to every ſmall Handful of Men; and it cannot be well ſuppoſed that the King's Hands will be ever ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bound up, by <hi>Twelve</hi> or <hi>Four and Twenty Ar<g ref="char:EOLhyphen"/>ticles,</hi> as nor to be able to provide for theſe poor Remains of Suffering Loyalty, without violating the Teſt, or Law of God or Man; and if he can, 'tis not to be doubted he will; but whether he can or cannot, will or will not: We have ſome Reaſon to believe, that Ingrati<g ref="char:EOLhyphen"/>tude will never be juſtly imputed to him, by thoſe poor Gentlemen, among whom their will be ſound more than one <hi>Mephiloſeth,</hi> who will be contented to loſe all, even that little <hi>All,</hi> that is left them, <hi>Provided</hi> they may live to ſee their Lord and King return in Peace.</p>
+            <p>Thus I have Anſwered plainly and fully (I hope) to the Odious Accuſation of the King's Ingratitude, which I own to be a Crime ſo much unworthy of a Prince, that it is ſcarce pardonable in the meaneſt of his Subjects: But God be thanked, our moſt Gracious King and Royal Maſter is ſo free from the leaſt Spot or Tincture of it (who beſides knows very well, that it often proves the Puniſhment as well as Sin of the Ungrateful;) that I appeal to the whole Nation, even to his Enemies, (if they will recollect themſelves, and ſpeak impartially) whether <hi>King James</hi> Gratitude and Conſtancy to his Friends, or at leaſt to his pretended Friends, have not hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herto been more prejudi<g ref="char:EOLhyphen"/>cial to him, through the whole Courſe of his Life, then the practice of their contrary Vices probably could have been. Let, therefore, every good and honeſt Man lay his Hand on his Heart, and conſider ſeriouſly with himſelf, as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he expects Mercy from the <hi>King,</hi> or from the <hi>King of Kings</hi> in a better World, Whether it becomes a Chriſtian, or a true Engliſhman, to treat a Royal Prince, the Son of our Royal Martyr, <hi>and Father to our preſent Governours,</hi> un<g ref="char:EOLhyphen"/>hear'd, uncondemn'd, abſent and unfortunate, with ſuch opprobrious, villainous, falſe and odious Crimes and Language, (and <hi>Litenſed ac<g ref="char:EOLhyphen"/>cording to Order</hi>) as could be ſcarce pardoned betwixt Man and Man.</p>
+            <p>But I ſhall conclude with this one Obſervation more, Let us ſuppoſe for once that the whole Matter of Fact in this <hi>True Relation,</hi> were really as true as the <hi>Relater</hi> f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lſly and impudently pretends: I muſt then make this Remark upon i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, That its Application and Concluſion is di<g ref="char:EOLhyphen"/>rectly oppoſite to what he pretends to prove, and to the very Title of his Pamphlet and Pa<g ref="char:EOLhyphen"/>per; he tells us that the <hi>Jacobites</hi> (for he can mean none elſe) together with the <hi>French,</hi> car<g ref="char:EOLhyphen"/>ried on a Curſed Deſign to Reſtore the late <hi>King James;</hi> but would prove all along, that the Meaſures which he hath taken, together with his Declaration, have all ended in a Diſſolution of the Hopes of a Second Reſtoration. Now from whence did he take his Meaſures, but from the <hi>Jacobites,</hi> and the <hi>French;</hi> who adviſed him to publiſh this fatal Declaration, but the <hi>Jaco<g ref="char:EOLhyphen"/>bites;</hi> who were of his pretended Proteſtant Council, but <hi>Jacobites;</hi> who mutiny'd and wiſh'd themſelves at Home, but the <hi>Irish Jaco<g ref="char:EOLhyphen"/>bites;</hi> who are diſſatisfy'd and returning Home in a moſt deplorable Condition, but the <hi>English Jacobites:</hi> In a Word, who but the <hi>Jacobites,</hi> and the <hi>French,</hi> have reduced him to this deſpe<g ref="char:EOLhyphen"/>rate Condition. By which it is moſt apparent, that if there hath been any Deſign carried on, (according to this Man's Notion) it was indeed a Curſed Deſign, not to Reſtore, but as this Trifler proves, contrary to his Intention, in<g ref="char:EOLhyphen"/>tirely to ruine the late <hi>King James.</hi> Let it therefore ſuffice to obſerve at laſt, That never did <hi>Irish</hi> Evidence more naturally contradict himſelf than this Man hath done.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
